@@ -1635,20 +1635,6 @@
         }
       },
       {
-        "id": "3ebee382-8226-405a-89ec-c3aa70b057fb",
-        "name": "rsa-enc-generated",
-        "providerId": "rsa-enc-generated",
-        "subComponents": {},
-        "config": {
-          "priority": [
-            "100"
-          ],
-          "algorithm": [
-            "RSA-OAEP"
-          ]
-        }
-      },
-      {
         "id": "d9e493ae-e09c-4419-9502-1992bd6a90f3",
         "name": "hmac-generated",
         "providerId": "hmac-generated",
